@@ -16,7 +16,7 @@ You do not need to go to test folder and run `node test.js` with 2 arguments.
 
 ## Here is a small demo picture of the file structure
 
-![File Structure for setting up testing](https://github.com/wtfuk/easyTestingJSPiscine/images/fstructure.png)
+![File Structure for setting up testing](https://github.com/wtfuk/easyTestingJSPiscine/blob/main/images/fstructure.png)
 
 I made a small youtube video also (sorry for no audio but I hope the video is good enough). [Click here to watch](https://youtu.be/cu6b4J7rFlw)
 
