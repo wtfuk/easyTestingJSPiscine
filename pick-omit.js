@@ -1,0 +1,2 @@
+const pick = (obj, ...keys) => Object.fromEntries(Object.entries(obj).filter(([key]) => keys.flat().includes(key)));
+const omit = (obj, ...keys) => Object.fromEntries(Object.entries(obj).filter(([key]) => !keys.flat().includes(key))); 
