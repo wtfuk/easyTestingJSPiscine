@@ -5,14 +5,14 @@ This is replacement for local computer testing for testing js-piscine solutions 
 ## How to use
 
 1. Take the tests folder and put it in your piscine folder where you have rest of your js-piscine files.
-2. Copy files `.gitignore` and `tests.mjs` to your piscine folder.
+2. Copy files `.gitignore` and `test.mjs` to your piscine folder.
 3. Now write a solution to a new file, for example `pick-omit.js`.
-4. Run `node tests.mjs` to test your solution.
+4. Run `node test.mjs` to test your solution.
 
 That's all that is required. You do not need to write 2 extra arguments. You do not need an external location of your tests folder.
-You do not need to specify the file or name of exercise you need to be tested. 
+You do not need to specify the file or name of exercise you need to be tested.
 
-**It automatically tests the last saved .js file in your piscine/current folder**.
+**It automatically tests the last saved .js file in your piscine/current folder**. Will add .mjs support soon.
 
 You do not need to go to test folder and run `node test.mjs` with 2 arguments.
 
