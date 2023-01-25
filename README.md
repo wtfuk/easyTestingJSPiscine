@@ -10,9 +10,11 @@ This is replacement for local computer testing for testing js-piscine solutions 
 4. Run `node tests.mjs` to test your solution.
 
 That's all that is required. You do not need to write 2 extra arguments. You do not need an external location of your tests folder.
-You do not need to specify the file or name of exercise you need to be tested. It automatically tests the last saved .js file in your piscine/current folder.
+You do not need to specify the file or name of exercise you need to be tested. 
 
-You do not need to go to test folder and run `node test.js` with 2 arguments.
+**It automatically tests the last saved .js file in your piscine/current folder**.
+
+You do not need to go to test folder and run `node test.mjs` with 2 arguments.
 
 ## Here is a small demo picture of the file structure
 
