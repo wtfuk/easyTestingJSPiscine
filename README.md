@@ -4,7 +4,7 @@ This is replacement for local computer testing for testing js-piscine solutions 
 
 ## How to use
 
-1. Take the tests folder and put it in your piscine folder where you have rest of your js-piscine files.
+1. Take the [tests folder](https://github.com/01-edu/public/tree/master/js/tests) and put it in your piscine folder where you have rest of your js-piscine files.
 2. Copy files `.gitignore` and `test.mjs` to your piscine folder.
 3. Now write a solution to a new file, for example `pick-omit.js`.
 4. Run `node test.mjs` to test your solution.
